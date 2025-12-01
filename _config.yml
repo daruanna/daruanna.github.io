@@ -1,0 +1,33 @@
+title: "Daru Anna Thomas"
+description: "Assistant Professor | Electrical Engineer | Researcher"
+theme: jekyll-theme-minimal
+
+# Custom stylesheet
+sass:
+  style: compressed
+
+# Navigation
+nav:
+  - name: "Home"
+    link: index.md
+  - name: "About"
+    link: about.md
+  - name: "Experience"
+    link: experience.md
+  - name: "Projects"
+    link: projects.md
+  - name: "Publications"
+    link: publications.md
+  - name: "Responsibilities"
+    link: responsibilities.md
+  - name: "Subjects Taught"
+    link: teaching.md
+  - name: "Contact"
+    link: contact.md
+
+# Enable custom assets
+include:
+  - assets
+
+markdown: kramdown
+show_downloads: false
