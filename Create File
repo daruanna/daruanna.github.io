@@ -1,0 +1,70 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+/* -----------------------------
+   Custom Minimal Color Scheme
+   ----------------------------- */
+
+/* Background */
+body {
+  background-color: #f7f9fc;  /* very light blue-gray */
+  color: #333;                /* dark gray for text */
+  font-family: "Segoe UI", Roboto, sans-serif;
+}
+
+/* Page width */
+.wrapper {
+  max-width: 850px;
+}
+
+/* Links */
+a {
+  color: #0a4fa3;             /* soft royal blue */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #073d82;
+  text-decoration: underline;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #0a4fa3;
+  font-weight: 600;
+}
+
+/* Navigation bar */
+nav a {
+  margin-right: 12px;
+  font-weight: 600;
+}
+
+/* Boxes & borders */
+hr {
+  border: 0;
+  height: 1px;
+  background: #d1dae8;
+}
+
+/* Table styling */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  background: #e7eef7;
+  color: #073d82;
+  padding: 8px;
+  text-align: left;
+  border-bottom: 2px solid #c7d4e6;
+}
+
+td {
+  padding: 8px;
+  border-bottom: 1px solid #e2e8f0;
+}
+
