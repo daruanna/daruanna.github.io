@@ -28,9 +28,7 @@ Explore the sections below:
 - [About Me](about.md)  
 - [Experience](experience.md)  
 - [Projects](projects.md)  
-- [Publications](publications.md)  
-- [Responsibilities](responsibilities.md)  
-- [Subjects Taught](teaching.md)  
+- [Publications](publications.md)   
 - [Contact](contact.md)
 
 ---
